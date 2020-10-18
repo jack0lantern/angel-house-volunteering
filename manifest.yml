@@ -1,5 +1,6 @@
 ---
 applications:
  - name: AngelHouseVolunteeringDev
-   random-route: true
+   routes:
+    - route: angel-house-volunteering-dev.mybluemix.net
    memory: 256M
