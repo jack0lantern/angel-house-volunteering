@@ -16,4 +16,4 @@ Work in progress:
 
 1. Using Firebase to store volunteer data
 
-2. Cron job to send daily text messages to event organizers based on stored volunteer data
+2. Send daily reminder text messages to event organizers based on stored volunteer data
