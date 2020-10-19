@@ -10,9 +10,9 @@ How this app works:
 1. If you are a volunteer for Angel House Soup Kitchen, fill out this form: 
 https://docs.google.com/forms/d/e/1FAIpQLSeytQJjWho6O5raCbj91DttuKsxZ7qNa6YRcPgWX_xHYp-lZg/viewform?usp=sf_link
 
-2. You should get an email notification about your submission, as well as a calendar invite.
+2. You should get an email notification about your submission, as well as a calendar invite. We have Zapier configured for this.
 
-3. The event is logged on our Google calendar.
+3. The event is logged on our Google calendar. We have Zapier configured for this.
 
 Work in progress:
 
