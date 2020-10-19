@@ -12,6 +12,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSeytQJjWho6O5raCbj91DttuKsxZ7qNa6YRcPgW
 
 2. You should get an email notification about your submission, as well as a calendar invite.
 
+3. The event is logged on our Google calendar.
+
 Work in progress:
 
 1. Using Firebase to store volunteer data
